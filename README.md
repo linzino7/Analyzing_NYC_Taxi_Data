@@ -10,6 +10,11 @@ data rows : 317,547,921 rows
 ### sorce:
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+## Env.
+* 4 PCs
+* 32 Cores
+* 42 GB Ram
+
 ## cluster
 Using mapreduce-base K-Mean clustering Drop off point to find the best position which Waiting for guests
 ![](https://i.imgur.com/XmR0dbK.png)
